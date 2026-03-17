@@ -1,0 +1,13 @@
+Crear una clase Empleado.
+
+Debe tener:
+
+IDEmpleado (readonly)
+Salario (private)
+Nombre (public)
+Departamento (internal)
+Reglas
+
+El salario solo puede modificarse con un método AumentarSalario.
+
+Crear método MostrarEmpleado.
