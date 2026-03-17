@@ -1,0 +1,11 @@
+Instrucciones
+
+Crear un programa en C# que implemente una clase llamada ListaLibros.
+
+La clase debe:
+
+Tener un arreglo de 5 libros.
+
+Tener un constructor que cree el arreglo.
+
+Tener un indexador para acceder a los libros.
